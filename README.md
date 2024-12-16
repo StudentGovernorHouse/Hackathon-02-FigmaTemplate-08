@@ -24,12 +24,3 @@ Artificial Inteligence Web 3.0 Metaverse | From Governor House Karachi (Ongoing)
 - **Figma** - Design tool for creating and prototyping UI/UX designs.
 
 ---
-
-## 🚧 Prerequisites
-
-Before running this project, make sure you have the following installed:
-
-- Node.js (version 16 or higher)
-- npm/yarn/pnpm/bun (any package manager)
-
-To get started, clone this repository and run the project on your local machine:
