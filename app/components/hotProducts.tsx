@@ -4,11 +4,11 @@ export default function HotProduct() {
   return (
     <header className="container mx-auto px-4 py-12 lg:py-16">
       <div className="relative grid grid-cols-1 gap-8 md:grid-cols-[auto_1fr]">
-        <div className="writing-mode-vertical hidden text-xl font-medium tracking-wider text-zinc-900 md:block pt-6">
+        <div className="tracking-wide whitespace-pre block absolute -left-36 -rotate-90">
           EXPLORE NEW AND POPULAR STYLES
         </div>
-        <div className="text-xl font-medium tracking-wider text-zinc-900 md:hidden">
-          EXPLORE NEW AND POPULAR STYLES
+        <div className="tracking-wide whitespace-pre block absolute -left-36 -rotate-90">
+        EXPLORE NEW AND POPULAR STYLES
         </div>
         <div className="flex flex-col md:flex-row items-center gap-8">
           <div className="w-full md:w-[48%]">
